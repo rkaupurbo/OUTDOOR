@@ -1,9 +1,9 @@
 @media(max-width:1399px){
-	
 	.navbar-light .navbar-nav .nav-link {
-    font-size: 16px;
-}
-
+	    
+	    font-size: 16px;
+	    padding: 6px 0;
+	}
 }
 
 @media(max-width:1199px){
@@ -316,8 +316,8 @@
 	}
 
 	.feature_img img {
-	    padding: 10px 0;
-	    border-radius: 0;
+	    padding: 0;
+    	border-radius: 5px;
 	}
 
 	.upcoming_section h1 {
